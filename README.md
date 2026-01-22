@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 EduSphere – Full Stack MERN Student Management System
 
 EduSphere is a **Full-Stack Student Management System** built using the **MERN Stack**, designed to digitize and streamline academic and administrative operations of an educational institution.
@@ -258,3 +259,6 @@ This project is for **learning and portfolio purposes**.
 ⭐ **If you like this project, consider giving it a star!**
 
 ---
+=======
+
+>>>>>>> 1ffd8b60f648fab64639d58e21105201f7553e88
