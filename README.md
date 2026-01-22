@@ -257,6 +257,3 @@ This project is for **learning and portfolio purposes**.
 
 ⭐ **If you like this project, consider giving it a star!**
 
-
-
-
